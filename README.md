@@ -15,4 +15,4 @@
 
 My current company uses BitBucket for code versioning. But I have an extra fondness for GitHub <3
 
-![snake_gif](https://github.com/GiovanniMartinsGit/GiovanniMartinsGit/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GiovanniMartinsGit/GiovanniMartinsGit/blob/output/github-contribution-grid-snake.svg)
