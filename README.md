@@ -4,8 +4,8 @@
 **GiovanniMartinsGit/Giovanni_Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 💻 I currently work as a Full-Stack Developer focusing on the Back-End. I have experience with monolithic systems and currently work with API development. Always looking for the most modern tools for better development! 
-- 📓 I have solid knowledge in:
+💻 I currently work as a Full-Stack Developer focusing on the Back-End. I have experience with monolithic systems and currently work with API development. Always looking for the most modern tools for better development! 
+📓 I have solid knowledge in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 
 
