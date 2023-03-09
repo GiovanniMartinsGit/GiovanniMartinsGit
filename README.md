@@ -1,9 +1,5 @@
 ## Hello guys, my name is Giovanni Martins and I'm a Dev Ruby on Rails 
 
-<!--
-**GiovanniMartinsGit/Giovanni_Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 💻 I currently work as a Full-Stack Developer focusing on the Back-End. I have experience with monolithic systems and currently work with API development. Always looking for the most modern tools for better development! 
 📓 I have solid knowledge in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
@@ -14,5 +10,4 @@ Ruby on Rails, OOP, REST, RESTFUL, Javascript, JSON, PostgresSQL, MySQL, Redis, 
 
 My current company uses BitBucket for code versioning. But I have an extra fondness for GitHub <3
 
-- ⚡ Fun fact: ...
--->
+
