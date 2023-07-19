@@ -12,7 +12,3 @@
           <a href = "mailto:giovannimartinsdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/giovanni-martins-972686221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-My current company uses BitBucket for code versioning. But I have an extra fondness for GitHub <3
-
-![snake gif](https://github.com/GiovanniMartinsGit/GiovanniMartinsGit/blob/output/github-contribution-grid-snake.svg)
